@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/>
   </a>
   <a href="https://astro.build/" target="_blank">
-    <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff" alt="astro"/>
+    <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=for-the-badge" alt="astro"/>
   </a>
   <a href="https://bulma.io/" target="_blank">
     <img src="https://img.shields.io/badge/bulma-00D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white"
